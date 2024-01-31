@@ -9,6 +9,13 @@ express middlewares, typescript, ORMs, etc. Those are outside of the scope for t
 
 ## Running
 
+1. designed for [node.js lts v20](https://nodejs.org/en) and above
+
 ### Frontend
+
+1. cd into ./frontend
+1. npm install
+1. npm run dev
+1. open http://localhost:5173
 
 ### Backend
