@@ -19,3 +19,9 @@ express middlewares, typescript, ORMs, etc. Those are outside of the scope for t
 1. open http://localhost:5173
 
 ### Backend
+
+1. cd in ./backend
+1. npm i
+1. npm start
+1. open http://localhost:4000
+
